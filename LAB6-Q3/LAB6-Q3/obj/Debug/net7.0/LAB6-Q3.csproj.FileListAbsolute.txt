@@ -1,0 +1,15 @@
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.csproj.AssemblyReference.cache
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.AssemblyInfoInputs.cache
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.AssemblyInfo.cs
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.csproj.CoreCompileInputs.cache
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/bin/Debug/net7.0/LAB6-Q3
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/bin/Debug/net7.0/LAB6-Q3.deps.json
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/bin/Debug/net7.0/LAB6-Q3.runtimeconfig.json
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/bin/Debug/net7.0/LAB6-Q3.dll
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/bin/Debug/net7.0/LAB6-Q3.pdb
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.dll
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/refint/LAB6-Q3.dll
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.pdb
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/LAB6-Q3.genruntimeconfig.cache
+/Users/ravinisatheesha/Projects/LAB6-Q3/LAB6-Q3/obj/Debug/net7.0/ref/LAB6-Q3.dll
