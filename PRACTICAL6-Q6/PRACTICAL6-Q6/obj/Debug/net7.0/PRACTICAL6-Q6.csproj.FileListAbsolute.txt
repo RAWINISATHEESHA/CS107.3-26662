@@ -1,0 +1,5 @@
+/Users/ravinisatheesha/Projects/PRACTICAL6-Q6/PRACTICAL6-Q6/obj/Debug/net7.0/PRACTICAL6-Q6.csproj.AssemblyReference.cache
+/Users/ravinisatheesha/Projects/PRACTICAL6-Q6/PRACTICAL6-Q6/obj/Debug/net7.0/PRACTICAL6-Q6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravinisatheesha/Projects/PRACTICAL6-Q6/PRACTICAL6-Q6/obj/Debug/net7.0/PRACTICAL6-Q6.AssemblyInfoInputs.cache
+/Users/ravinisatheesha/Projects/PRACTICAL6-Q6/PRACTICAL6-Q6/obj/Debug/net7.0/PRACTICAL6-Q6.AssemblyInfo.cs
+/Users/ravinisatheesha/Projects/PRACTICAL6-Q6/PRACTICAL6-Q6/obj/Debug/net7.0/PRACTICAL6-Q6.csproj.CoreCompileInputs.cache
