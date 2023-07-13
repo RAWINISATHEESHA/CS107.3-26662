@@ -1,0 +1,15 @@
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.csproj.AssemblyReference.cache
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.AssemblyInfoInputs.cache
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.AssemblyInfo.cs
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.csproj.CoreCompileInputs.cache
+/Users/ravinisatheesha/Projects/getset/getset/bin/Debug/net7.0/getset
+/Users/ravinisatheesha/Projects/getset/getset/bin/Debug/net7.0/getset.deps.json
+/Users/ravinisatheesha/Projects/getset/getset/bin/Debug/net7.0/getset.runtimeconfig.json
+/Users/ravinisatheesha/Projects/getset/getset/bin/Debug/net7.0/getset.dll
+/Users/ravinisatheesha/Projects/getset/getset/bin/Debug/net7.0/getset.pdb
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.dll
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/refint/getset.dll
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.pdb
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/getset.genruntimeconfig.cache
+/Users/ravinisatheesha/Projects/getset/getset/obj/Debug/net7.0/ref/getset.dll
